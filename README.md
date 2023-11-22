@@ -9,4 +9,4 @@ Please consider these Guidelines:
 6. ek worthy change in repo ke liye ek commit kro
 7. commit name should be meaningful
 8. responsiveness ka dhyan rkho everytime you update any code in repo
-9. any doubts ya need to select anything ask on grp itsel
+9. any doubts ya need to select anything ask on grp itself
